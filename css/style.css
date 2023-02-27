@@ -1,9 +1,11 @@
+
 /* Created by: Dominic M.
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
+
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
@@ -21,11 +23,11 @@
 }
 
 .page-content {
-  color:Red;
+  color: red;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1.75rem;
-  }
-  
-  body {
-    background-color: yellow;
-  }
+}
+
+body {
+  background-color: yellow;
+}
